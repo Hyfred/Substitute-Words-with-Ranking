@@ -1,5 +1,7 @@
 # **Learning to Substitute Words with Model-based Score Ranking**  
 
+This is the repository for paper: Learning to Substitute Words with Model-based Score Ranking
+
 ## **Dataset**  
 The dataset is based on [Microsoft's SmartWordSuggestions](https://github.com/microsoft/SmartWordSuggestions).  
 
@@ -25,6 +27,9 @@ We provide two training methods for fine-tuning a BERT-based model:
 ## **Evaluation**  
 - **p-value Calculation**  
   - Computes the **p-value metric** to evaluate model performance.  
+     ```
+     cd p_value
+     ```  
 
 ## **Inference**  
 - **Generating Word Substitutions**  
