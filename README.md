@@ -1,6 +1,6 @@
 # **Learning to Substitute Words with Model-based Score Ranking**  
 
-This is the repository for paper: Learning to Substitute Words with Model-based Score Ranking
+This is the repository for NAACL 2025 paper: [Learning to Substitute Words with Model-based Score Ranking]{https://aclanthology.org/2025.naacl-long.576.pdf}
 
 ## **Dataset**  
 The dataset is based on [Microsoft's SmartWordSuggestions](https://github.com/microsoft/SmartWordSuggestions).  
